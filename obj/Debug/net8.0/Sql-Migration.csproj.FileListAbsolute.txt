@@ -170,3 +170,5 @@ C:\Users\admin\OneDrive\Dotnet projects\Sql-Migration\bin\Debug\net8.0\runtimes\
 C:\Users\admin\OneDrive\Dotnet projects\Sql-Migration\obj\Debug\net8.0\Sql-Migration.csproj.AssemblyReference.cache
 C:\Users\admin\OneDrive\Dotnet projects\Sql-Migration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\admin\OneDrive\Dotnet projects\Sql-Migration\obj\Debug\net8.0\Sql-Migr.9AA90E1A.Up2Date
+C:\Users\admin\OneDrive\Dotnet projects\Sql-Migration\obj\Debug\net8.0\Sql-Migration.sourcelink.json
+C:\Users\admin\OneDrive\Dotnet projects\Sql-Migration\bin\Debug\net8.0\BCrypt.Net-Next.dll
