@@ -25,7 +25,8 @@
 
     <button type="submit" class="btn btn-primary">Register</button> <br />
 
-    <a asp-area="" asp-controller="Home" asp-action="Login">Already User</a>
+    <a asp-area="" asp-controller="UserController1" asp-action="Signin">Already User</a>
+
 
     @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage as string))
     {

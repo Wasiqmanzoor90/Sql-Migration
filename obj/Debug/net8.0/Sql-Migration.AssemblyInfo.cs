@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sql-Migration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be8aebcd764e266b8d7b9b582defdc56999a3ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+306dec95e30ea358bbae2cf4375bc1ac8fb9fc05")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sql-Migration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sql-Migration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

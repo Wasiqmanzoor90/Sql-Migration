@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\usercontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\usercontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\usercontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\usercontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:controllers\\usercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\usercontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\usercontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\usercontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\usercontroller1\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\views\\usercontroller1\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:views\\usercontroller1\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|c:\\users\\admin\\onedrive\\dotnet projects\\sql-migration\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FB043D-65E2-418D-84BD-E8F6649D8962}|Sql-Migration.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +58,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\UserController1\\Register.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Register.cshtml",
-              "RelativeToolTip": "Views\\UserController1\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserController1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Create.cshtml*",
+              "RelativeToolTip": "Views\\UserController1\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T10:00:34.417Z",
+              "WhenOpened": "2025-02-02T11:17:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T11:07:50.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T09:52:22.526Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserController1\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T08:18:04.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Controllers\\UserController1.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController1.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Controllers\\UserController1.cs*",
-              "RelativeToolTip": "Controllers\\UserController1.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAABOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Controllers\\UserController1.cs",
+              "RelativeToolTip": "Controllers\\UserController1.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T09:27:56.89Z",
+              "WhenOpened": "2025-02-02T08:13:52.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Models\\Blog.cs",
+              "RelativeToolTip": "Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T15:45:56.162Z",
+              "WhenOpened": "2025-02-02T10:37:56.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-30T15:31:17.317Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T11:21:46.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserController1\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Details.cshtml",
+              "RelativeToolTip": "Views\\UserController1\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T10:41:22.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:31:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signin.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Signin.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserController1\\Signin.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Dotnet projects\\Sql-Migration\\Views\\UserController1\\Signin.cshtml",
+              "RelativeToolTip": "Views\\UserController1\\Signin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T08:34:10.571Z",
               "EditorCaption": ""
             }
           ]

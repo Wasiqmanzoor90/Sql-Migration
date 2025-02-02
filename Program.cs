@@ -27,7 +27,8 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    // Change the default controller to UserController1
+        name: "default",
+        pattern: "{controller=UserController1}/{action=Index}/{id?}");
 
 app.Run();

@@ -1,0 +1,17 @@
+﻿@model Sql_Migration.Models.Blog
+
+@{
+    ViewData["Title"] = Model.Tittle;
+}
+
+<div class="container mt-4">
+    <h2>@Model.Tittle</h2>
+    <p class="text-muted">By @Model.Author | @Model.DateCreated.ToShortDateString()</p>
+
+
+    <div class="content">
+        @Html.Raw(Model.Content)  
+    </div>
+
+    <a href="@Url.Action("Index", "UserController1")" class="btn btn-secondary mt-3">Back to Blogs</a>
+</div>

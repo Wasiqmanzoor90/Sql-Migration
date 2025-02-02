@@ -1,0 +1,37 @@
+﻿@model List<Sql_Migration.Models.Blog>
+
+@{
+    ViewData["Title"] = "Blog Posts";
+}
+
+<div class="container mt-4" style="height:90vh">
+    <h2 class="text-center mb-4">Latest Blog Posts</h2>
+    <div class="row">
+        @foreach (var blog in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow">
+                    <div class="card-body">
+                        <h5 class="card-title">@blog.Tittle</h5>
+
+                        <p class="card-text">
+                            @if (!string.IsNullOrEmpty(blog.Content) && blog.Content.Length > 100)
+                            {
+                                @Html.Raw(blog.Content.Substring(0, 20) + "...")
+                            }
+                            else
+                            {
+                                @Html.Raw(blog.Content)
+                            }
+                        </p>
+
+                        <p class="text-muted small">By @blog.Author | @blog.DateCreated.ToShortDateString()</p>
+
+                        <!-- Read More Button -->
+                        <a href="@Url.Action("Details", "UserController1", new { id = blog.Id })" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

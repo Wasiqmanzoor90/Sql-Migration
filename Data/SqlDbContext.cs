@@ -10,5 +10,6 @@ namespace Sql_Migration.Data
 
         }
         public DbSet<User> User2 { get; set; }
+        public DbSet<Blog> Blogs { get; set; }
     }
 }

@@ -9,6 +9,7 @@
       "Sql-Migration/1.0.0": {
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
+          "CKEditor": "3.6.4",
           "Microsoft.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.Design": "9.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.1",
@@ -61,6 +62,7 @@
           }
         }
       },
+      "CKEditor/3.6.4": {},
       "Humanizer.Core/2.14.1": {
         "runtime": {
           "lib/net6.0/Humanizer.dll": {
@@ -1076,6 +1078,13 @@
       "sha512": "sha512-W+U9WvmZQgi5cX6FS5GDtDoPzUCV4LkBLkywq/kRZhuDwcbavOzcDAr3LXJFqHUi952Yj3LEYoWW0jbEUQChsA==",
       "path": "bcrypt.net-next/4.0.3",
       "hashPath": "bcrypt.net-next.4.0.3.nupkg.sha512"
+    },
+    "CKEditor/3.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-roGF09wJmp7Zyyvq/bDzbLccKUfMumMpmgPav5U/naoVoDis1izPsSL8H/MEFG3hfFBC4HegSRwlYZG+PWHnaQ==",
+      "path": "ckeditor/3.6.4",
+      "hashPath": "ckeditor.3.6.4.nupkg.sha512"
     },
     "Humanizer.Core/2.14.1": {
       "type": "package",
